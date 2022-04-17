@@ -1,2 +1,3 @@
-# my-resume
-Here is my resume!
+# My Resume
+
+Hi, my name is Will and here is my resume.
